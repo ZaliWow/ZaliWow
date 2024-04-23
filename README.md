@@ -1,18 +1,4 @@
-<style>
-  body.dark {
-    background-color: #1a1a1a;
-    color: #c7c7c7;
-  }
-  .dark .markdown-body h1,
-  .dark .markdown-body h2,
-  .dark .markdown-body h3,
-  .dark .markdown-body h4,
-  .dark .markdown-body h5,
-  .dark .markdown-body h6 {
-    color: #f0f0f0;
-  }
-</style>
-
+<div style="background-color: #000; color: #fff; padding: 20px; border-radius: 10px;">
 
 ### Hello there! 👋 I'm David Morales
 Systems Engineer graduate from Universidad del Valle 🎓
@@ -34,7 +20,7 @@ Connect with Me!
 I'd love to connect with you and learn more about your projects! You can find me on LinkedIn and Twitter, don't hesitate to follow me!
 
 Thanks for visiting my profile! 😊
-
+</div>
 <!--
 **ZaliWow/ZaliWow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
