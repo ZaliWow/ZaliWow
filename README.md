@@ -9,12 +9,18 @@ Welcome to my GitHub profile! I'm a passionate systems engineer with a focus on 
 - 💼 I have experience working with technologies like Node.js with Express.js for the backend, React.js for the frontend, and Firebase for data storage.
 - 🌱 Additionally, I have solid knowledge in PostgreSQL, JavaScript, HTML, CSS, and a basic level of Python, Figma and Canva.
 - 💬 Always eager to learn new technologies and share knowledge with the community.
-## Experiencia en Frontend y Backend
+## Experiencia y Habilidades
 
-| Tecnología   | Experiencia   |
-|--------------|---------------|
-| Frontend     | Avanzada      |
-| Backend      | Básica        |
+| Área                     | Experiencia   |
+|--------------------------|---------------|
+| Frontend                 | Avanzada      |
+| Backend                  | Básica        |
+| Levantamiento de Requerimientos | Intermedio |
+| Diseño                   | Intermedio    |
+| Bases de Datos           | Intermedio    |
+| Scrum                    | Intermedio    |
+| Habilidades Blandas      | Avanzado      |
+
 
 ### What I Do
 
