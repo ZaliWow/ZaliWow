@@ -1,3 +1,19 @@
+<style>
+  body.dark {
+    background-color: #1a1a1a;
+    color: #c7c7c7;
+  }
+  .dark .markdown-body h1,
+  .dark .markdown-body h2,
+  .dark .markdown-body h3,
+  .dark .markdown-body h4,
+  .dark .markdown-body h5,
+  .dark .markdown-body h6 {
+    color: #f0f0f0;
+  }
+</style>
+
+
 ### Hello there! 👋 I'm David Morales
 Systems Engineer graduate from Universidad del Valle 🎓
 Welcome to my GitHub profile! I'm a passionate systems engineer with a focus on both technical and soft skills. I love building innovative solutions and collaborating on projects that challenge my abilities and allow me to grow professionally.
