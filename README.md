@@ -1,3 +1,6 @@
+
+![My dream is to work one day at...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOemwExxmJgG93hAwswosKhsG87bq7NdNW1A&s)
+
 ## Hello there! 👋 I'm David Morales, a Systems Engineering graduate from Universidad del Valle 🎓.
 
 Welcome to my GitHub profile! I'm a passionate systems engineer with a focus on both technical and soft skills. I enjoy building innovative solutions and collaborating on projects that challenge my abilities and allow me to grow professionally.
