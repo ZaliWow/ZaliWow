@@ -1,22 +1,40 @@
-<h1 align="center">Hi 👋, I'm David Morales</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+## Hello there! 👋 I'm David Morales, a Systems Engineering graduate from Universidad del Valle 🎓.
 
-- 🔭 I’m currently working on [Freelance LandingPages](https://cionelectric-dovio-valle-del-cauca.netlify.app/)
+Welcome to my GitHub profile! I'm a passionate systems engineer with a focus on both technical and soft skills. I enjoy building innovative solutions and collaborating on projects that challenge my abilities and allow me to grow professionally.
 
-- 🌱 I’m currently learning **Express**
+### About Me
 
-- 💬 Ask me about **React and responsive design**
+- 👨‍💻 Currently specializing in Frontend web development.
+- 💼 I have experience working with technologies like Node.js with Express.js for the backend, React.js for the frontend, and Firebase for data storage.
+- 🌱 Additionally, I have solid knowledge in PostgreSQL, JavaScript, HTML, CSS, and a basic level of Python, Figma and Canva.
+- 💬 Always eager to learn new technologies and share knowledge with the community.
+## Experiencia y Habilidades
 
-- 📫 How to reach me **morales.william@correounivalle.edu.co**
+| Área                     | Experiencia   |
+|--------------------------|---------------|
+| Frontend                 | Avanzada      |
+| Backend                  | Básica        |
+| Levantamiento de Requerimientos | Intermedio |
+| Diseño                   | Intermedio    |
+| Bases de Datos           | Intermedio    |
+| Scrum                    | Intermedio    |
+| Habilidades Blandas      | Avanzado      |
 
-- 📄 Know about my experiences [https://portfolio-dev-david.netlify.app/](https://portfolio-dev-david.netlify.app/)
 
-- ⚡ Fun fact **I am very athletic, a football lover and a faithful follower and sufferer of FC Barcelona**
+### What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/william-david-morales-pineda-551589249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/william-david-morales-pineda-551589249/" height="30" width="40" /></a>
-</p>
+- 🚀 Develop scalable and high-performance web applications.
+- 📊 Enjoy exploring and analyzing data to gain meaningful insights.
+- 📝 share my knowledge through blogs and tutorials.
+
+### Want to Collaborate?
+
+I'm open to exciting collaborations and interesting job opportunities! Whether you have a cool project in mind or just want to chat about technology, feel free to reach out.
+
+### Connect with Me!
+
+I'd love to connect with you and learn more about your projects! You can find me on [LinkedIn](https://www.linkedin.com/in/william-david-morales-pineda-551589249/) and [Tiktok](https://www.tiktok.com/@davidmorales712), don't hesitate to follow me!
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
