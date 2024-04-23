@@ -34,7 +34,7 @@ I'm open to exciting collaborations and interesting job opportunities! Whether y
 
 ### Connect with Me!
 
-I'd love to connect with you and learn more about your projects! You can find me on [LinkedIn](#) and [Twitter](#), don't hesitate to follow me!
+I'd love to connect with you and learn more about your projects! You can find me on [LinkedIn](https://www.linkedin.com/in/william-david-morales-pineda-551589249/) and [Tiktok](https://www.tiktok.com/@davidmorales712), don't hesitate to follow me!
 
 Thanks for visiting my profile! 😊
 
