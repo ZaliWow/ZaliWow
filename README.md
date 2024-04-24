@@ -1,4 +1,4 @@
-![baner](https://www.canva.com/design/DAGDScMKrjA/831qsS0sIcwDXrm71ukcKg/watch?utm_content=DAGDScMKrjA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![baner](https://www.canva.com/design/DAGDScMKrjA/831qsS0sIcwDXrm71ukcKg/watch?utm)
 
 ## Hello there! 👋 I'm David Morales, a Systems Engineering graduate from Universidad del Valle 🎓.
 
