@@ -1,3 +1,5 @@
+![baner](https://www.canva.com/design/DAGDScMKrjA/831qsS0sIcwDXrm71ukcKg/watch?utm_content=DAGDScMKrjA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## Hello there! 👋 I'm David Morales, a Systems Engineering graduate from Universidad del Valle 🎓.
 
 Welcome to my GitHub profile! I'm a passionate systems engineer with a focus on both technical and soft skills. I enjoy building innovative solutions and collaborating on projects that challenge my abilities and allow me to grow professionally.
