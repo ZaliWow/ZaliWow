@@ -1,4 +1,4 @@
-![baner](https://firebasestorage.googleapis.com/v0/b/bdd-proyecto-grado.appspot.com/o/Agregar%20un%20t%C3%ADtulo.mp4?alt=media&token=68d57746-0490-4993-89ca-2ef39ed40d8e)
+![baner](https://firebasestorage.googleapis.com/v0/b/bdd-proyecto-grado.appspot.com/o/Agregar%20un%20t%C3%ADtulo.gif?alt=media&token=7c16bd85-2991-49c6-bce6-b38b534d171a)
 
 ## Hello there! 👋 I'm David Morales, a Systems Engineering graduate from Universidad del Valle 🎓.
 
